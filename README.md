@@ -37,7 +37,7 @@ look up as you approach, but all return to their business as you go by.
 
 #### Progress
 
-- Veered of Triborg Trail.
+- Veered off Triborg Trail.
 - Found two dead horses.
 - We were surprised attacked by 5 goblins
 - Killed all 5 goblins
