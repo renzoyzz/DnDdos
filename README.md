@@ -19,22 +19,31 @@
 
 - Veered of Triborg Trail.
 - Found two dead horses.
-- We were surprised attacked by 5 goblins.
+- We were surprised attacked by 5 goblins
+- Killed all 5 goblins
 
 ## Characters
 
 ### Ventus - Rogue - Dark Elf
 
-- Dark-elf
+- Useful in combat.
 
 ### Jin - Asemar Witch
 
+- Shot a exploding ice dagger
+- Lazy, does not help in combat
+
 ### Loomi - Cleric - Bald Eagle
 
-- Descendant of bald eagles
 - Has no feathers
 - Cleric to heal himself but is cursed by a Witch
   - Witch wants to
 - Needs money to be stronger and find the witch
 
 ### Ametarasue - Wizard
+
+- Cocky but reliable
+
+## Ethel
+
+- Learned how to make snare
