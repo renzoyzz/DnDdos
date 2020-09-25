@@ -63,9 +63,9 @@ look up as you approach, but all return to their business as you go by.
 ### Loomi - Cleric - Bald Eagle
 
 - Has no feathers
-- Cleric to heal himself but is cursed by a Witch
-  - Witch wants to
-- Needs money to be stronger and find the witch
+- Cleric to heal himself but is cursed by a witch
+- Needs money
+- Wants to be stronger and find the witch who cursed him.
 
 ### Ametarasue - Wizard
 
