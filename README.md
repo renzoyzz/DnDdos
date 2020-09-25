@@ -73,4 +73,4 @@ look up as you approach, but all return to their business as you go by.
 
 ## Ethel
 
-- Learned how to make snare
+- Learned how to make snare, or atleast think i do.
