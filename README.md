@@ -35,6 +35,7 @@ look up as you approach, but all return to their business as you go by.
 - Harband Wester, the Townmaster will pay 100 gold to get Sildar and Rockseeker back alive. 75 gold for one person.
 - Has two brothers camping out east of town 10 days ago.
 - Located somwhere on the Triboar Trail where we found the dead horses.
+- Found golbins outside cave with a prisoner inside.
 
 ### Red Brand Raid
 
@@ -71,6 +72,8 @@ look up as you approach, but all return to their business as you go by.
     - Probably Sildar
   - Talk to Mayor in Townmaster's Hall
   - Paid smithy for sword
+  - Rain into cave with a stream coming out.
+  - Killed 2 globins and 3 wolves in from the cave.
 
 ## Characters
 
