@@ -29,11 +29,24 @@ look up as you approach, but all return to their business as you go by.
 - Gundren and his knight are missing.
 - Wagon was delivered and the 10 gold pieces have been paid.
 
-### Find Gundren Rockseeker
+### Find Gundren Rockseeker and Sildar Hallwinter
 
-- Convinced Eldar to pay us 20 gold each to get Gundren back from bandits
+- Convinced Eldar who owns Barthen's Provisions to pay us 20 gold each to get Gundren back from bandits
+- Harband Wester, the Townmaster will pay 100 gold to get Sildar and Rockseeker back alive. 75 gold for one person.
 - Has two brothers camping out east of town 10 days ago.
 - Located somwhere on the Triboar Trail where we found the dead horses.
+
+### Red Brand Raid
+
+- Village is being raided by the Red Brand.
+- Harband Wester, the Townmaster has more information.
+  - Expects Sildar to come and be sherrif.
+- Annie is the secretary.
+
+### Orcs in Wyvertore
+
+- 100 gold for wiping out orcs.
+- Located below the triboar trail below old owl well.
 
 #### Progress
 
@@ -48,6 +61,16 @@ look up as you approach, but all return to their business as you go by.
 - We found out Gunther hasn't Arrived
 - Has two brothers camping out east of town 10 days ago.
 - Eldar will pay us 20 gold each to get Gundren back.
+- Ventus claims he fought off looters to save people.
+  - Got red cloth from the red brand.
+    - A group of mercanaries.
+- Head to the family's home to see if they have information
+- Red brand raids town continuously.
+  - Held up in old mansion on the hill.
+  - Town is waiting for a knight.
+    - Probably Sildar
+  - Talk to Mayor in Townmaster's Hall
+  - Paid smithy for sword
 
 ## Characters
 
@@ -66,10 +89,13 @@ look up as you approach, but all return to their business as you go by.
 - Cleric to heal himself but is cursed by a witch
 - Needs money
 - Wants to be stronger and find the witch who cursed him.
+- Owe 2 gold
 
 ### Ametarasue - Wizard
 
 - Cocky but reliable
+- Gnome
+- Owe 2 gold
 
 ## Ethel
 
